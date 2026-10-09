@@ -1,0 +1,10 @@
+{
+  "name": "portfolio-olist",
+  "compatibility_date": "2026-10-09",
+  "workers_dev": true,
+  "preview_urls": false,
+  "assets": {
+    "directory": "./",
+    "not_found_handling": "404-page"
+  }
+}
